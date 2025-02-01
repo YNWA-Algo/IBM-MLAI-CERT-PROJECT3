@@ -4,8 +4,6 @@
 ****J - Section 1 is Deep Learning and Neural Network Projects for my IBM Project based certification program.  
 NN – Multi-layer Perceptron (MLP) class. MNP Classifier, Transfer learning CNN Classifier****
 
-
-**need to edit the files below***
 J0. 04a_2_KmeansClustering.ipynb  
 J1. 04a_KMeansClustering.ipynb  
 J2. 04a3_GMM_v2.ipynb  
